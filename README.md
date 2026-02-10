@@ -1,24 +1,28 @@
 # Cadeira1 💺✂️
 
-**Sistema de Gerenciamento para Barbearias**
+**Sistema de Gestão para Barbearias**
 
-Bem-vindo ao repositório do **Cadeira1**! Este projeto está sendo construído com a filosofia **Build in Public**. Estou compartilhando o desenvolvimento, os desafios e as vitórias dessa jornada abertamente.
+Bem-vindo ao centro de planejamento do **Cadeira1**!
 
-### 🚀 O que o Cadeira1 faz?
+Este projeto opera no modelo **Build in Public**. Embora o **código-fonte não seja aberto (Not Open Source)**, todo o processo de construção, decisões e aprendizados é compartilhado abertamente com a comunidade.
+
+Este repositório serve exclusivamente para centralizar o **histórico**, o **roadmap** futuro e o feedback de quem acompanha a jornada.
+
+### 🚀 Funcionalidades Principais
 
 * 📅 **Agendamentos Online:** Seus clientes agendam direto pelo site.
 * 👥 **Gestão de Equipe:** Controle barbeiros e horários facilmente.
 * ✂️ **Catálogo de Serviços:** Gerencie serviços e preços em tempo real.
 * 💸 **Pagamentos PIX:** *(EM BREVE)* Receba pagamentos automaticamente.
 
-### 🤝 Como participar?
+### 🗺️ O objetivo deste repositório
 
-Sua opinião ajuda a moldar o produto. Contribua com:
+Aqui você não encontrará o código, mas encontrará a transparência do projeto. Use a aba **Issues** para:
 
-* **Sugestões:** Ideias são bem-vindas nas *Issues*.
-* **Reporte de Bugs:** Achou um erro? Avise a gente.
-* **Feedback:** Teste e diga o que achou da experiência.
+* Sugerir novas funcionalidades.
+* Reportar bugs encontrados durante o uso.
+* Acompanhar o que estamos priorizando para o futuro.
 
 ---
 
-**Acompanhe essa construção linha a linha!**
+**Sua participação define os próximos passos!**

